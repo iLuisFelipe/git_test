@@ -1,0 +1,1 @@
+Apenas mais uma tarde de estudos, dessa vez descobrindo como funciona o git e github usando o terminal
